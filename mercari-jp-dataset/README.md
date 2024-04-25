@@ -1,5 +1,5 @@
 # JP Sales Data: Explore Trends and Predict Prices 
-# Mercari Japanese Item Listings (Apr 2024) 🛍
+# Mercari Japanese Product Sales Dataset (Apr 2024) 🛍
 
 This dataset contains items listed and sold on Mercari's Japanese website (http://mercari.jp) offering a unique glimpse into the world of e-commerce on the website.
 It is intentionally structured similar to that of [the official Price Suggestion Challenge on Kaggle](https://www.kaggle.com/competitions/mercari-price-suggestion-challenge) held 7 years ago. It's that the data is renewed in their native language and has more predictors/features in it.
