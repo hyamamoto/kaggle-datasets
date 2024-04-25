@@ -2,7 +2,10 @@
 # Mercari Japanese Item Listings (Apr 2024) 🛍
 
 This dataset contains items listed and sold on Mercari's Japanese website (http://mercari.jp) offering a unique glimpse into the world of e-commerce on the website.
-It may be useful for various tasks including classification, regression, natural language processing, and price prediction. Non commercial use only. I hope next generation of data engineers find this interesting.
+It is intentionally structured similar to that of [the official Price Suggestion Challenge on Kaggle](https://www.kaggle.com/competitions/mercari-price-suggestion-challenge) held 7 years ago. It's that the data is renewed in their native language and has more predictors/features in it.
+It may be useful for various tasks including classification, regression, natural language processing, and price prediction.
+Non commercial use only. I hope next generation of data engineers find this interesting.
+
 
 ## Data Overview:
 
@@ -64,10 +67,9 @@ It may be useful for various tasks including classification, regression, natural
 
 ## Contact:
 
-If you find this dataset valuable or have suggestions, feel free to contact me.
-
-This dataset is currently on beta. Do you want some Kaggle competition with this?
-Do you want other features imported from original data source?
+If you find this dataset valuable or have suggestions, feel free to [contact me](hyamamoto2000@gmail.com). 
+- This dataset is currently on beta. Do you want some Kaggle competition with this?
+- Do you want other features imported from original data source?
 <!--
 We encourage you to explore this dataset and share your findings with the Kaggle community!
 -->
@@ -75,5 +77,5 @@ We encourage you to explore this dataset and share your findings with the Kaggle
 ## Future Data Acquisition:
 
 The dataset is intended to be updated over time.
-This version includes data collected between April 1st and April 22th,
+This version includes data collected between April 1st and April 22th, 2024.
 
