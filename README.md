@@ -2,14 +2,13 @@
 
 This is a GitHub data lake for my Kaggle Dataset.
 
-## Dataset Source Repositories
+## Dataset Sources
 
-- [Mercari Japanese Product Listing Dataset](./mercari-jp)
-- TBA
+- [./mercari-jp](./mercari-jp) : Mercari Japanese Product Listing Dataset
 
-## Kaggle Dataset Link
+## Dataset on Kaggle
 
-- TBA
+- [mercari-jp-dataset@Kaggle](https://www.kaggle.com/datasets/hyamamoto2000/mercari-jp-dataset)
 
 
 <pre>/**
