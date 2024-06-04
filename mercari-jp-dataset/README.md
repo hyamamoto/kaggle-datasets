@@ -8,7 +8,7 @@ The data is intentionally structured similar to that of the official Price Sugge
 
 - **Content:** List of sold items on Mercari Japanese website
 - **Source:** In-house web scraper via official web interface
-- **Number of samples:** about 464,000 (one item per row)
+- **Number of samples:** about 867,700 (one item per row)
 - **Data format:** TSV
 - **Encoding:** UTF-8
 
